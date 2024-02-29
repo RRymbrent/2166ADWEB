@@ -1,0 +1,43 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+  }
+  
+  th {
+    background-color: #333;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #222;
+  }
+  
+  tr:hover {
+    background-color: orange;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #fff;
+  }
+
+  body{
+    background-color: black;
+}
+
+p{
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+}
