@@ -1,0 +1,38 @@
+.books-app {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif; /* Set font to Arial */
+}
+
+.book {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  width: 600px; /* Reduced width for better alignment */
+  margin: 0 auto; /* Center the book horizontally */
+}
+
+.book-title {
+  font-weight: bold;
+}
+
+.book-desc {
+  font-style: italic;
+}
+
+.book-price {
+  font-weight: bold;
+}
+
+.delete-button {
+  background-color: grey; /* Changed background color */
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px; /* Adjusted margin for spacing */
+}
+
+/* Removed the universal selector for font-family as it's redundant */

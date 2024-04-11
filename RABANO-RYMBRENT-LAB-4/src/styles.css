@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+input{
+  color: white;
+  font-size: 20px;
+}
+
+b{
+  text-indent: 5000px;
+  letter-spacing: 3px;
+  word-spacing: 10px;
+}
